@@ -1,7 +1,7 @@
-package jp.ac.uryukyu.ie.ex3.pair28;
+package jp.ac.uryukyu.ie.prog2_ex3.pair28;
 
 public class Dice{
-    　private int value;
+      private int value;
       public Dice(){
 	play();
       }
